@@ -12,6 +12,5 @@ class MergeSortedArraysTest : FunSpec({
             mutableListOf(1, 2, 3).toIntArray(),
             3
         )
-        println(arr.contentToString())
     }
 })
